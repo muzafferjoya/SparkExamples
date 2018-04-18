@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.learningspark.example&apos; to &apos;main.com.learningspark.example&apos;&#x0D;&#x0A;- Original project: &apos;WordCountApp-SBT&apos;&#x0D;&#x0A;- Original element: &apos;WordCountApp-SBT/src/com.learningspark.example&apos;&#x0D;&#x0A;- Renamed element: &apos;WordCountApp-SBT/src/main.com.learningspark.example&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.learningspark.example&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.learningspark.example" name="main.com.learningspark.example" qualified="false" references="true" stamp="1524079730249" textual="false" version="1.0"/>
+</session>

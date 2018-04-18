@@ -1,0 +1,161 @@
+2018-04-18 14:15:14,132 ERROR [Worker-1] - System.err - log4j:WARN No appenders could be found for logger (com.gradleware.tooling.toolingutils.distribution.PublishedGradleVersions).
+2018-04-18 14:15:14,149 ERROR [Worker-1] - System.err - log4j:WARN Please initialize the log4j system properly.
+2018-04-18 14:15:54,178  WARN [ModalContext] - ScalaProject - Project WordCountApp has platform default sourceLevel.
+2018-04-18 14:15:54,179  WARN [ModalContext] - ScalaProject - Project WordCountApp runs on platform default installation.
+2018-04-18 14:16:02,205  WARN [Worker-6] - ScalaProject - Project WordCountApp has platform default sourceLevel.
+2018-04-18 14:16:02,220  WARN [Worker-6] - ScalaProject - Project WordCountApp runs on platform default installation.
+2018-04-18 14:16:44,130  WARN [Worker-9] - ScalaProject - Project WordCountApp has platform default sourceLevel.
+2018-04-18 14:16:44,131  WARN [Worker-9] - ScalaProject - Project WordCountApp runs on platform default installation.
+2018-04-18 14:18:08,344  WARN [main] - ScalaProject - Project WordCountApp has platform default sourceLevel.
+2018-04-18 14:18:08,344  WARN [main] - ScalaProject - Project WordCountApp runs on platform default installation.
+2018-04-18 14:18:14,846  WARN [main] - ScalaProject - Project WordCountApp has platform default sourceLevel.
+2018-04-18 14:18:14,846  WARN [main] - ScalaProject - Project WordCountApp runs on platform default installation.
+2018-04-18 14:18:15,204  WARN [Worker-5] - ScalaProject - Project WordCountApp has platform default sourceLevel.
+2018-04-18 14:18:15,204  WARN [Worker-5] - ScalaProject - Project WordCountApp runs on platform default installation.
+2018-04-18 14:19:19,284  WARN [Worker-5] - ScalaProject - Project WordCountApp has platform default sourceLevel.
+2018-04-18 14:19:19,284  WARN [Worker-5] - ScalaProject - Project WordCountApp runs on platform default installation.
+2018-04-18 14:19:19,620  WARN [Worker-13] - ScalaProject - Project WordCountApp has platform default sourceLevel.
+2018-04-18 14:19:19,620  WARN [Worker-13] - ScalaProject - Project WordCountApp runs on platform default installation.
+2018-04-18 14:19:20,399  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project WordCountApp has platform default sourceLevel.
+2018-04-18 14:19:20,400  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project WordCountApp runs on platform default installation.
+2018-04-18 14:20:21,536  WARN [Worker-1] - ScalaProject - Project WordCountApp has platform default sourceLevel.
+2018-04-18 14:20:21,536  WARN [Worker-1] - ScalaProject - Project WordCountApp runs on platform default installation.
+2018-04-18 14:23:09,492  WARN [ModalContext] - ScalaProject - Project WordCountApp-SBT has platform default sourceLevel.
+2018-04-18 14:23:09,494  WARN [ModalContext] - ScalaProject - Project WordCountApp-SBT runs on platform default installation.
+2018-04-18 14:23:09,538  WARN [ModalContext] - ScalaProject - Project WordCountApp-SBT has platform default sourceLevel.
+2018-04-18 14:23:09,538  WARN [ModalContext] - ScalaProject - Project WordCountApp-SBT runs on platform default installation.
+2018-04-18 14:23:14,276  WARN [Worker-11] - ScalaProject - Project WordCountApp-SBT has platform default sourceLevel.
+2018-04-18 14:23:14,276  WARN [Worker-11] - ScalaProject - Project WordCountApp-SBT runs on platform default installation.
+2018-04-18 14:23:14,289  WARN [Worker-11] - ScalaProject - Project WordCountApp-SBT has platform default sourceLevel.
+2018-04-18 14:23:14,289  WARN [Worker-11] - ScalaProject - Project WordCountApp-SBT runs on platform default installation.
+2018-04-18 14:28:50,336  WARN [main] - ScalaProject - Project WordCountApp-SBT has platform default sourceLevel.
+2018-04-18 14:28:50,337  WARN [main] - ScalaProject - Project WordCountApp-SBT runs on platform default installation.
+2018-04-18 14:28:50,841 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - Exception in thread "org.scalaide.ui.internal.reconciliation.ScalaReconciler"
+2018-04-18 14:28:50,842 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - java.lang.NullPointerException
+2018-04-18 14:28:50,854 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.ui.internal.editor.outline.ScalaOutlineReconcilingStrategy.updateOutlineView(ScalaOutlineReconcilingStrategy.scala:34)
+2018-04-18 14:28:50,856 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.ui.internal.editor.outline.ScalaOutlineReconcilingStrategy.initialReconcile(ScalaOutlineReconcilingStrategy.scala:27)
+2018-04-18 14:28:50,856 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.initialReconcile(CompositeReconcilingStrategy.java:119)
+2018-04-18 14:28:50,856 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:95)
+2018-04-18 14:28:50,856 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:174)
+2018-04-18 14:28:51,254  WARN [Worker-19] - ScalaProject - Project WordCountApp-SBT has platform default sourceLevel.
+2018-04-18 14:28:51,254  WARN [Worker-19] - ScalaProject - Project WordCountApp-SBT runs on platform default installation.
+2018-04-18 14:31:49,752  WARN [ModalContext] - ScalaProject - Project SparkExample-IDE has platform default sourceLevel.
+2018-04-18 14:31:49,752  WARN [ModalContext] - ScalaProject - Project SparkExample-IDE runs on platform default installation.
+2018-04-18 14:31:50,001  WARN [Worker-24] - ScalaProject - Project SparkExample-IDE has platform default sourceLevel.
+2018-04-18 14:31:50,002  WARN [Worker-24] - ScalaProject - Project SparkExample-IDE runs on platform default installation.
+2018-04-18 14:32:44,474  WARN [Worker-24] - ScalaProject - Project SparkExample-IDE has platform default sourceLevel.
+2018-04-18 14:32:44,474  WARN [Worker-24] - ScalaProject - Project SparkExample-IDE runs on platform default installation.
+2018-04-18 14:32:52,895  WARN [main] - ScalaProject - Project SparkExample-IDE has platform default sourceLevel.
+2018-04-18 14:32:52,895  WARN [main] - ScalaProject - Project SparkExample-IDE runs on platform default installation.
+2018-04-18 14:32:56,885  WARN [main] - ScalaProject - Project SparkExample-IDE has platform default sourceLevel.
+2018-04-18 14:32:56,885  WARN [main] - ScalaProject - Project SparkExample-IDE runs on platform default installation.
+2018-04-18 14:32:57,118  WARN [Worker-19] - ScalaProject - Project SparkExample-IDE has platform default sourceLevel.
+2018-04-18 14:32:57,119  WARN [Worker-19] - ScalaProject - Project SparkExample-IDE runs on platform default installation.
+2018-04-18 14:33:57,940  WARN [Worker-23] - ScalaProject - Project SparkExample-IDE has platform default sourceLevel.
+2018-04-18 14:33:57,941  WARN [Worker-23] - ScalaProject - Project SparkExample-IDE runs on platform default installation.
+2018-04-18 14:33:58,161  WARN [Worker-19] - ScalaProject - Project SparkExample-IDE has platform default sourceLevel.
+2018-04-18 14:33:58,161  WARN [Worker-19] - ScalaProject - Project SparkExample-IDE runs on platform default installation.
+2018-04-18 14:33:58,738  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project SparkExample-IDE has platform default sourceLevel.
+2018-04-18 14:33:58,739  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project SparkExample-IDE runs on platform default installation.
+2018-04-18 14:34:15,640  WARN [Worker-15] - ScalaProject - Project SparkExample-IDE has platform default sourceLevel.
+2018-04-18 14:34:15,640  WARN [Worker-15] - ScalaProject - Project SparkExample-IDE runs on platform default installation.
+2018-04-18 14:37:12,780  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2018-04-18 14:37:20,811  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2018-04-18 14:40:16,429  WARN [Java indexing] - ScalaProject - Project SparkExample-IDE has platform default sourceLevel.
+2018-04-18 14:40:16,433  WARN [Java indexing] - ScalaProject - Project SparkExample-IDE runs on platform default installation.
+2018-04-18 14:40:17,297  WARN [Worker-27] - ScalaProject - Project SparkExample-IDE has platform default sourceLevel.
+2018-04-18 14:40:17,298  WARN [Worker-27] - ScalaProject - Project SparkExample-IDE runs on platform default installation.
+2018-04-18 15:00:56,429  WARN [main] - ScalaProject - Project WordCount has platform default sourceLevel.
+2018-04-18 15:00:56,430  WARN [main] - ScalaProject - Project WordCount runs on platform default installation.
+2018-04-18 15:00:56,535  WARN [main] - ScalaProject - Project WordCount has platform default sourceLevel.
+2018-04-18 15:00:56,535  WARN [main] - ScalaProject - Project WordCount runs on platform default installation.
+2018-04-18 15:00:56,756  WARN [Worker-37] - ScalaProject - Project WordCount has platform default sourceLevel.
+2018-04-18 15:00:56,756  WARN [Worker-37] - ScalaProject - Project WordCount runs on platform default installation.
+2018-04-18 15:00:56,938  WARN [Worker-37] - ScalaProject - Project WordCount has platform default sourceLevel.
+2018-04-18 15:00:56,939  WARN [Worker-37] - ScalaProject - Project WordCount runs on platform default installation.
+2018-04-18 15:02:24,385  WARN [ModalContext] - ScalaProject - Project WordCount-Maven has platform default sourceLevel.
+2018-04-18 15:02:24,386  WARN [ModalContext] - ScalaProject - Project WordCount-Maven runs on platform default installation.
+2018-04-18 15:02:28,085  WARN [Worker-37] - ScalaProject - Project WordCount-Maven has platform default sourceLevel.
+2018-04-18 15:02:28,085  WARN [Worker-37] - ScalaProject - Project WordCount-Maven runs on platform default installation.
+2018-04-18 15:02:28,099  WARN [Worker-32] - ScalaProject - Project WordCount-Maven has platform default sourceLevel.
+2018-04-18 15:02:28,099  WARN [Worker-32] - ScalaProject - Project WordCount-Maven runs on platform default installation.
+2018-04-18 15:02:28,168  WARN [Worker-32] - ScalaProject - Project WordCount-Maven has platform default sourceLevel.
+2018-04-18 15:02:28,168  WARN [Worker-32] - ScalaProject - Project WordCount-Maven runs on platform default installation.
+2018-04-18 15:02:44,422  WARN [ModalContext] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:02:44,422  WARN [ModalContext] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:02:45,051  WARN [Worker-36] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:02:45,051  WARN [Worker-36] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:02:45,056  WARN [Worker-36] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:02:45,056  WARN [Worker-36] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:02:45,127  WARN [Worker-36] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:02:45,128  WARN [Worker-36] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:02:45,270  WARN [Worker-36] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:02:45,270  WARN [Worker-36] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:03:05,056  WARN [ModalContext] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:03:05,057  WARN [ModalContext] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:03:05,255  WARN [Worker-33] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:03:05,255  WARN [Worker-33] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:03:05,386  WARN [Worker-33] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:03:05,387  WARN [Worker-33] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:03:06,445  WARN [Worker-36] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:03:06,445  WARN [Worker-36] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:03:06,487  WARN [Worker-36] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:03:06,487  WARN [Worker-36] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:03:14,879  WARN [ModalContext] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:03:14,879  WARN [ModalContext] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:03:15,166  WARN [Worker-36] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:03:15,166  WARN [Worker-36] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:03:15,198  WARN [Worker-36] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:03:15,198  WARN [Worker-36] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:03:27,216  WARN [Worker-35] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:03:27,217  WARN [Worker-35] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:03:27,260  WARN [Worker-35] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:03:27,260  WARN [Worker-35] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:03:36,838  WARN [Worker-32] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:03:36,838  WARN [Worker-32] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:03:36,904  WARN [Worker-32] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:03:36,905  WARN [Worker-32] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:03:44,623  WARN [main] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:03:44,623  WARN [main] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:03:50,074  WARN [main] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:03:50,075  WARN [main] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:03:50,299  WARN [Worker-35] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:03:50,300  WARN [Worker-35] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:03:51,927  WARN [Worker-35] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:03:51,927  WARN [Worker-35] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:04:14,533  WARN [Worker-29] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:04:14,533  WARN [Worker-29] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:05:33,983  WARN [Worker-35] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:05:33,983  WARN [Worker-35] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:05:36,038  WARN [Worker-35] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:05:36,038  WARN [Worker-35] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:05:36,799  WARN [Worker-35] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:05:36,799  WARN [Worker-35] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:05:37,723  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:05:37,723  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:08:46,909  WARN [Worker-36] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:08:46,910  WARN [Worker-36] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:08:47,017  WARN [Worker-36] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:08:47,017  WARN [Worker-36] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:13:18,286  WARN [Java indexing] - ScalaProject - Project SparkExample-IDE has platform default sourceLevel.
+2018-04-18 15:13:18,287  WARN [Java indexing] - ScalaProject - Project SparkExample-IDE runs on platform default installation.
+2018-04-18 15:13:19,906  WARN [Worker-43] - ScalaProject - Project SparkExample-IDE has platform default sourceLevel.
+2018-04-18 15:13:19,906  WARN [Worker-43] - ScalaProject - Project SparkExample-IDE runs on platform default installation.
+2018-04-18 15:18:47,815  WARN [main] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:18:47,816  WARN [main] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:18:47,825  WARN [main] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:18:47,825  WARN [main] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:18:49,691 ERROR [main] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob).
+2018-04-18 15:18:49,691 ERROR [main] - System.err - log4j:WARN Please initialize the log4j system properly.
+2018-04-18 15:18:53,715  WARN [main] - ScalaProject - Project SparkExample-IDE has platform default sourceLevel.
+2018-04-18 15:18:53,716  WARN [main] - ScalaProject - Project SparkExample-IDE runs on platform default installation.
+2018-04-18 15:19:11,184  WARN [Worker-5] - ScalaProject - Project SparkExample-IDE has platform default sourceLevel.
+2018-04-18 15:19:11,185  WARN [Worker-5] - ScalaProject - Project SparkExample-IDE runs on platform default installation.
+2018-04-18 15:19:11,251  WARN [Worker-5] - ScalaProject - Project SparkExample-IDE has platform default sourceLevel.
+2018-04-18 15:19:11,252  WARN [Worker-5] - ScalaProject - Project SparkExample-IDE runs on platform default installation.
+2018-04-18 15:19:26,007  WARN [Worker-5] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:19:26,008  WARN [Worker-5] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:19:26,040  WARN [Worker-5] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:19:26,041  WARN [Worker-5] - ScalaProject - Project SparkExample-Maven runs on platform default installation.
+2018-04-18 15:19:32,441  WARN [Worker-5] - ScalaProject - Project SparkExample-Maven has platform default sourceLevel.
+2018-04-18 15:19:32,442  WARN [Worker-5] - ScalaProject - Project SparkExample-Maven runs on platform default installation.

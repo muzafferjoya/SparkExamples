@@ -1,0 +1,5 @@
+package com.learningspark.example.WordCount
+
+class WordCount {
+  
+}

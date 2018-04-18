@@ -1,0 +1,17 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\sparkexamples\SparkExample-SBT\target\scala-2.10\spark-sample_2.10-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\sparkexamples\SparkExample-SBT\target\scala-2.10\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\learningspark\example\WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\sparkexamples\SparkExample-SBT\target\scala-2.10\classes\com\learningspark\example\WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\learningspark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\sparkexamples\SparkExample-SBT\target\scala-2.10\classes\com\learningspark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\learningspark\example\WordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\sparkexamples\SparkExample-SBT\target\scala-2.10\classes\com\learningspark\example\WordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\learningspark\example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\sparkexamples\SparkExample-SBT\target\scala-2.10\classes\com\learningspark\example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\learningspark\example\WordCount$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\sparkexamples\SparkExample-SBT\target\scala-2.10\classes\com\learningspark\example\WordCount$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\learningspark\example\WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\sparkexamples\SparkExample-SBT\target\scala-2.10\classes\com\learningspark\example\WordCount$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
